@@ -1,2 +1,1 @@
-# xv6
-Learning about xv6 operating system
+# xv6-sse3044
